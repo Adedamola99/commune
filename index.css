@@ -1,0 +1,241 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F6F9FE;
+}
+
+.container {
+  margin: .8em 4em;
+  height: -webkit-max-content;
+  height: -moz-max-content;
+  height: max-content;
+}
+
+.container header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container header .hamburger {
+  display: none;
+}
+
+.container header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.container header ul li {
+  padding: .5em;
+  list-style: none;
+}
+
+.container header ul li a {
+  text-decoration: none;
+  color: #898B8D;
+}
+
+.container header ul li .waitlist {
+  color: white;
+  background: #372865;
+  padding: .7em;
+  border-radius: 4px;
+}
+
+.container .hero {
+  margin-top: 3.5em;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 60% 40%;
+      grid-template-columns: 60% 40%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .hero img {
+  width: 300px;
+}
+
+.container .hero .container1 .learnmore {
+  margin: .4em 0;
+  background: #372865;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: .4em;
+  padding-left: 1em;
+  border-radius: 15px;
+  color: white;
+}
+
+.container .hero .container1 .learnmore a {
+  color: white;
+}
+
+.container .hero .container1 h1 {
+  font-size: 4vw;
+  color: #353252;
+}
+
+.container .hero .container1 .words {
+  margin-top: .5em;
+  color: #898B8D;
+  width: 90%;
+}
+
+.container .hero .container1 div {
+  margin: 1em 0;
+}
+
+.container .hero .container1 div input {
+  padding: 1em 3em;
+  outline: none;
+  border: 1.5px solid #F0F2F5;
+  background: white;
+}
+
+.container .hero .container1 div .waitlist1 {
+  color: white;
+  background: #372865;
+  padding: 1em;
+  border-radius: 4px;
+}
+
+.container .hero .container1 div a {
+  text-decoration: none;
+}
+
+.container footer {
+  padding-top: 3em;
+}
+
+.container footer .images {
+  margin-top: 1em;
+}
+
+.container footer .images img {
+  max-width: 50px;
+  padding: 0 .4em;
+}
+
+@media only screen and (max-width: 900px) {
+  .container header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .container header .hamburger {
+    display: block;
+    cursor: pointer;
+    z-index: 9999;
+  }
+  .container header ul.menu {
+    display: block;
+  }
+  .container header ul {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    z-index: 99;
+    background-color: #353252;
+    height: 100%;
+    left: 0;
+    width: -webkit-fill-available;
+    padding-top: 5em;
+  }
+  .container header ul li {
+    text-align: center;
+    padding-top: 2em;
+  }
+  .container header ul li a {
+    color: #898B8D;
+    font-size: 1.5em;
+  }
+  .container header ul li a:hover {
+    color: white;
+  }
+  .container header ul li .waitlist {
+    color: #898B8D;
+    background: none;
+    padding: .7em;
+    border-radius: 4px;
+  }
+  .container header ul {
+    display: none;
+  }
+  .container .hero {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  .container .hero .container1 {
+    display: block;
+    text-align: center;
+  }
+  .container .hero .container1 h1, .container .hero .container1 .words {
+    margin: 0 auto;
+    width: 70%;
+  }
+  .container .hero .container1 h1 {
+    font-size: 3em;
+  }
+  .container .hero .container1 .learnmore {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .container .hero img {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .container {
+    margin: 0;
+  }
+  .container header {
+    margin: 1em;
+  }
+  .container .hero .container1 .learnmore {
+    width: 80%;
+  }
+  .container .hero .container1 h1 {
+    padding: .5em 0;
+    font-size: 10vw;
+  }
+  .container .hero .container1 .words {
+    font-size: 5vw;
+  }
+  .container .hero .container1 div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin: 1em 3em;
+  }
+  .container .hero .container1 div .waitlist1 {
+    margin-top: .7em;
+  }
+  footer {
+    margin: 0 3em;
+  }
+}
+/*# sourceMappingURL=index.css.map */
