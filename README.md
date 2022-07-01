@@ -1,4 +1,4 @@
-# Codewell's Landing Page Challenge
+# Codewell's Commune Landing Page Challenge
 
 <p>This is a solution to the codwell landing page challenge on codwell.cc. They help youimprove your Html and Css coding skills by building realistic projects</p>
 <h1>Table of Content</h1>
