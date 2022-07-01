@@ -5,7 +5,7 @@
 
 <ul>
   <li>Overview
-    <ol>The Challenge</ol>
+    <ul>The Challenge</ul>
     <ol>Screenshot(s)</ol>
     <ol>Links</ol>
   </li>
