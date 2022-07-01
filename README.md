@@ -5,9 +5,11 @@
 
 <ul>
   <li>Overview
-    <ul>The Challenge</ul>
-    <ol>Screenshot(s)</ol>
-    <ol>Links</ol>
+    <ul>
+      <li>The Challenge</li>
+      <li>Screenshot(s)</li>
+      <li>Links</li>
+    </ul>
   </li>
   <li>My Process
     <ol>Built with</ol>
