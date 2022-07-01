@@ -1,7 +1,28 @@
-# commune
+#Codewell's Landing Page Challenge
 
-# A simple landing page challenge from frontendmentor.com
+<p>This is a solution to the codwell landing page challenge on codwell.cc. They help youimprove your Html and Css coding skills by building realistic projects</p>
+<h1>Table of Content</h1>
 
-# I implemented Html, Css and a bit of javascript
+<ul>
+  <li>Overview
+    <ol>The Challenge</ol>
+    <ol>Screenshot(s)</ol>
+    <ol>Links</ol>
+  </li>
+  <li>My Process
+    <ol>Built with</ol>
+    <ol>What I learned</ol>
+    <ol>useful resources</ol>
+    <ol>Continued development</ol>
+  </li>
+  <li>Author</li>
+  <li>Acknowledgments</li>
+</ul>
+<h1>Overview</h1>
+
+<h3>The Challenge</h3>
+<p>User should be able to</p>
+
+
 
 
