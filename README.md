@@ -12,10 +12,12 @@
     </ul>
   </li>
   <li>My Process
-    <ol>Built with</ol>
-    <ol>What I learned</ol>
-    <ol>useful resources</ol>
-    <ol>Continued development</ol>
+    <ul>
+      <li>Built with</li>
+      <li>What I learned</li>
+      <li>useful resources</li>
+      <li>Continued development</li>
+    </ul>
   </li>
   <li>Author</li>
   <li>Acknowledgments</li>
