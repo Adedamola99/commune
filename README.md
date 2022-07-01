@@ -25,7 +25,16 @@
 <h1>Overview</h1>
 
 <h3>The Challenge</h3>
-<p>User should be able to</p>
+<p>User should be able to:</p>
+<ul>
+  <li>View the optimal layout of the site depending on their device's screen size</li>
+  <li>User should be able to navigate the hamburger menu on mobile device</li>
+  <li>User Should be able to add an email address to the input box</li>
+</ul>
+
+<h3>Screenshot</h3>
+
+
 
 
 
