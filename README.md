@@ -33,6 +33,21 @@
 </ul>
 
 <h3>Screenshot</h3>
+<img src="./Design/Landing Page - Desktop View.png" alt="">
+<img src="./Design/Landing Page - Mobile View.png" alt="">
+<img src="./Design/Landing Page - Tablet View.png" alt="">
+
+<h3>Links</h3>
+
+<h1>My Process</h1>
+<h3>Built with</h3>
+<ul>
+  <li>What I learned</li>
+  <li>useful resources</li>
+  <li>Continued development</li>
+</ul>
+
+
 
 
 
