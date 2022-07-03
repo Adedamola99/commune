@@ -34,7 +34,6 @@
 
 <h3>Screenshot</h3>
 <img src="./Design/Landing Page - Desktop View.png" alt="">
-<img src="./Design/Landing Page - Mobile View.png" alt="">
 <img src="./Design/Landing Page - Tablet View.png" alt="">
 
 <h3>Links</h3>
