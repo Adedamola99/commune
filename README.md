@@ -34,8 +34,8 @@
 
 <h3>Screenshot</h3>
 <div>
-  <img src="./Design/Landing Page - Desktop View.png" alt="" style="width: 270px;">
-  <img src="./Design/Landing Page - Tablet View.png" alt="" style="width: 270px;">
+  <img src="./Design/Landing Page - Desktop View.png" alt="" style="width: 470px;">
+  <img src="./Design/Landing Page - Tablet View.png" alt="" style="width: 470px;">
 </div>
 
 
