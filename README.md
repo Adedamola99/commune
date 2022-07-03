@@ -33,8 +33,8 @@
 </ul>
 
 <h3>Screenshot</h3>
-<img src="./Design/Landing Page - Desktop View.png" alt="">
-<img src="./Design/Landing Page - Tablet View.png" alt="">
+<img src="./Design/Landing Page - Desktop View.png" alt="" style="width: 30px;">
+<img src="./Design/Landing Page - Tablet View.png" alt="" style="width: 30px;">
 
 <h3>Links</h3>
 
