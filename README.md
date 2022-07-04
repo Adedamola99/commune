@@ -40,6 +40,9 @@
 
 
 <h3>Links</h3>
+<ul>
+  <li>Site url: https://github.com/Adedamola99/commune/deployments/activity_log?environment=github-pages</li>
+</ul>
 
 <h1>My Process</h1>
 <h3>Built with</h3>
@@ -51,10 +54,10 @@
   <li>Javascript</li>
   <li>Responsive Design</li>
 </ul>
-<h4>Note: This are just examples. Delete this note and replace with your own above/h4>
+<h4>Note: This are just examples. Delete this note and replace with your own above</h4>
 
 <h3>What I learned</h3>
-<p>In this challenge, I learned how to design a page website using both flexBox and Css Grid and made use ofmedia query for responsiveness so as to support any user screen size</p>
+<p>In this challenge, I learned how to design a one page website using both FlexBox and Css Grid and made use of media query for responsiveness so as to support any user screen size. I also solidified my knowledge on building a navigation bar menu</p>
 
 
 
