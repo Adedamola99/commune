@@ -33,7 +33,7 @@
 </ul>
 
 <h3>Screenshot</h3>
-<div>
+<div style="display: flex; gap: 10px;">
   <img src="./Design/Landing Page - Desktop View.png" alt="" style="width: 470px;">
   <img src="./Design/Landing Page - Tablet View.png" alt="" style="width: 470px;">
 </div>
@@ -44,10 +44,16 @@
 <h1>My Process</h1>
 <h3>Built with</h3>
 <ul>
-  <li>What I learned</li>
-  <li>useful resources</li>
-  <li>Continued development</li>
+  <li>Semantic Html5 Markup</li>
+  <li>SCSS</li>
+  <li>FlexBox</li>
+  <li>Grid</li>
+  <li>Javascript</li>
+  <li>Responsive Design</li>
 </ul>
+<h4>Note: This are just examples. Delete this note and replace with your own above/h4>
+
+<h3>What I learned</h3>
 
 
 
