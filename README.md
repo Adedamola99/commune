@@ -59,12 +59,11 @@
 <h3>What I learned</h3>
 <p>In this challenge, I learned how to design a one page website using both FlexBox and Css Grid and made use of media query for responsiveness so as to support any user screen size. I also solidified my knowledge on building a navigation bar menu</p>
 
-  <li>Author
-    <ul>
-      <li>Website: Adedamola Adebitan</li>
-      <li>Twitter: @itz_damia</li>
-    </ul>
-  </li>
+<h1>Author</h1>
+  <ul>
+    <li>Website: Adedamola Adebitan</li>
+    <li>Twitter: @itz_damia</li>
+  </ul>
 
 
 
