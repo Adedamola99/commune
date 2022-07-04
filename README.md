@@ -41,7 +41,7 @@
 
 <h3>Links</h3>
 <ul>
-  <li>Site url: https://github.com/Adedamola99/commune/deployments/activity_log?environment=github-pages</li>
+  <li>Site url: https://adedamola99.github.io/commune/</li>
 </ul>
 
 <h1>My Process</h1>
@@ -59,7 +59,12 @@
 <h3>What I learned</h3>
 <p>In this challenge, I learned how to design a one page website using both FlexBox and Css Grid and made use of media query for responsiveness so as to support any user screen size. I also solidified my knowledge on building a navigation bar menu</p>
 
-
+  <li>Author
+    <ul>
+      <li>Website: Adedamola Adebitan</li>
+      <li>Twitter: @itz_damia</li>
+    </ul>
+  </li>
 
 
 
