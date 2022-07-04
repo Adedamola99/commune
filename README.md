@@ -54,7 +54,7 @@
 <h4>Note: This are just examples. Delete this note and replace with your own above/h4>
 
 <h3>What I learned</h3>
-
+<p>In this challenge, I learned how to design a page website using both flexBox and Css Grid and made use ofmedia query for responsiveness so as to support any user screen size</p>
 
 
 
