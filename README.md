@@ -1,8 +1,8 @@
 # Codewell's Commune Landing Page Challenge
 
 <p>This is a solution to the codwell landing page challenge on codwell.cc. They help you improve your Html and Css coding skills by building realistic projects</p>
-<h1>Table of Content</h1>
 
+<h1>Table of Content</h1>
 <ul>
   <li>Overview
     <ul>
@@ -37,7 +37,6 @@
   <img src="./Design/Landing Page - Desktop View.png" alt="" style="width: 470px;">
   <img src="./Design/Landing Page - Tablet View.png" alt="" style="width: 470px;">
 </div>
-
 
 <h3>Links</h3>
 <ul>
