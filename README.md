@@ -56,7 +56,7 @@
 <h4>Note: This are just examples. Delete this note and replace with your own above</h4>
 
 <h3>What I learned</h3>
-<p>In this challenge, I learned how to design a one page website using both FlexBox and Css Grid and made use of media query for responsiveness so as to support any user screen size. I also solidified my knowledge on building a navigation bar menu.</p>
+<p>In this challenge, I learned how to design a one page website using both FlexBox and Css Grid and made use of media query for responsiveness so as to support any user screen size. I also solidified my knowledge on building a navigation bar.</p>
 
 <h1>Author</h1>
   <ul>
